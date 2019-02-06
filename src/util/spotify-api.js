@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const AUTH_URL = 'http://localhost:8080/auth'
+const AUTH_URL = 'https://spotlight-server-1def133064.herokuapp.com/auth'
 const SPOTIFY_URL = 'https://api.spotify.com/v1'
 
 export default {
